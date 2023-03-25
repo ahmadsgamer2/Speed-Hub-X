@@ -82,8 +82,11 @@ getgenv().Games = {
     [5255237254] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
     [6602103757] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
     [5824792748] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [3272915504] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade
-    [12604352060] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 1
+    [9872472334] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade
+    [10324346056] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 1
+    [10324347967] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 2
+    [10539706691] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 3
+    [10662542523] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 4
  }
 
 
