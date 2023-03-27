@@ -1,6 +1,5 @@
 local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Speed-Hub-X/main/Speed_Hub_X_GameList"))()
 
-function CheckingGame()
     getgenv().Get =
         setmetatable(
         {},
@@ -16,4 +15,4 @@ function CheckingGame()
             loadstring(game:HttpGet(v))()
         end
     end
-end
+
