@@ -1,92 +1,25 @@
-getgenv().Games = {
-    [142823291] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Murder%20Mystery%202", -- MM2
-    [3101667897] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed", -- City Legends Of Speed
-    [3232996272] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed", -- Space Legends Of Speed
-    [3276265788] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed", -- Desert Legends Of Speed
-    [3623096087] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Muscle-Legends", -- Muscle Legends
-    [3956818381] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Ninja-Legends", -- Ninja Legends
-    [9834528893] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/%2B1-Jump-Every-Second", -- +1 Jump Every Second
-    [8507479511] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Higher-Jump-Every-Second", -- Higher Jump Every Second
-    [11063612131] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Every-Second-You-Get-%2B1-Jump-Power", -- Every Second You Get +1 Jump Power
-    [6679968919] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Fly-Race", -- Fly Race
-    [2753915549] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit", -- Blox Fruit OLD Worlds
-    [4442272183] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit", -- Blox Fruit v1 worlds
-    [7449423635] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit", -- Blox Fruit v2 worlds
-    [6516141723] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Doors", --  Doors
-    [6839171747] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Doors", --  Doors
-    [920587237] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Adopt-Me", --  Adopt Me
-    [9285238704] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Race-Clicker", --  Race Clicker
-    [4616652839] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350214] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350394] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350656] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350809] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5431071837] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5447073001] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5084678830] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5431069982] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350760] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6341670805] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6505734854] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6901575446] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6984568732] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6986372023] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451398863] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7214033433] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451401540] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5307141034] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7534339269] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451410109] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6593187011] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6593188260] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5743370338] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5664805984] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5664803952] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [8184506020] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7923764447] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [9310522814] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451405681] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7524811367] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5255237254] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6602103757] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5824792748] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350214] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350394] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350809] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5431069982] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5447073001] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [4601350760] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6341670805] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6505734854] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6901575446] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6984568732] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6986372023] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451398863] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7214033433] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451401540] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5307141034] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7534339269] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451410109] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6593187011] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6593188260] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5743370338] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5664805984] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5664803952] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [8184506020] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [8472733618] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7923764447] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [9310522814] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5451405681] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7524809704] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [7524811367] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6602058266] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5255237254] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [6602103757] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [5824792748] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Shindo-Life", --  Shindo Life
-    [9872472334] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade
-    [10324346056] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 1
-    [10324347967] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 2
-    [10539706691] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 3
-    [10662542523] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade", --  Evade 4
-    [12413786484] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Anime%20Lost%20Simulator", -- Anime Lost Simulator
- }
+if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then --Blox Fruit
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit"))()
+elseif game.PlaceId == 142823291 then --MM2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Murder%20Mystery%202"))()
+elseif game.PlaceId == 3101667897 or 3232996272 or 3276265788 then -- Legends Of Speed 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed"))()
+elseif game.PlaceId == 3623096087 then -- Muscle legends 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Muscle-Legends"))()
+elseif game.PlaceId == 3956818381 then -- Ninja Legends 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Ninja-Legends"))()
+elseif game.PlaceId == 9834528893 then -- +1 Jump Every Second
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/%2B1-Jump-Every-Second"))()
+elseif game.PlaceId == 9834528893 then -- Higher Jump Every Second
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Higher-Jump-Every-Second"))()
+elseif game.PlaceId == 11063612131 then -- Every Second You Get +1 Jump Power
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Every-Second-You-Get-%2B1-Jump-Power"))()
+elseif game.PlaceId == 6516141723 then --  Doors
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Doors"))()
+elseif game.PlaceId == 920587237 then --  Adopt Me
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Adopt-Me"))()
+elseif game.PlaceId == 9872472334 or 10324346056 or 10324347967 or 10539706691 or 10662542523 then --  Evade
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Evade"))()
+elseif game.PlaceId == 12413786484 then --  Anime Lost Simulator
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Anime%20Lost%20Simulator"))()
+end
