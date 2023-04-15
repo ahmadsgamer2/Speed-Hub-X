@@ -1,4 +1,7 @@
 getgenv().Games = {
+    [4520749081] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/King-Legacy", -- King Legacy 2
+    [5931540094] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/King-Legacy", -- King Legacy 1
+    [6381829480] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/King-Legacy", -- King Legacy
     [142823291] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Murder%20Mystery%202", -- MM2
     [3101667897] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed", -- City Legends Of Speed
     [3232996272] = "https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed", -- Space Legends Of Speed
