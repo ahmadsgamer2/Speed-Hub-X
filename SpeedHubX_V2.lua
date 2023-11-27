@@ -130,7 +130,7 @@ function Update:Window(text,logo,keybind)
  Main.AnchorPoint = Vector2.new(0.5,0.5)
  Main.BackgroundColor3 = Color3.fromRGB(10, 9, 9)
  Main.Position = UDim2.new(0.5, 0, 0.5, 0)
- Main.Size = UDim2.new(0, 650, 0, 350)
+ Main.Size = UDim2.new(0, 500, 0, 350)
  --Main.BackgroundTransparency = 0.8
 
  local MCNR = Instance.new("UICorner")
