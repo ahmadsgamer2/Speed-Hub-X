@@ -1,4 +1,4 @@
-repeat wait() until game:IsLoaded()
+
 
 game:GetService("Players").LocalPlayer.Idled:connect(
     function()
