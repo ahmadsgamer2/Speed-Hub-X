@@ -1,3 +1,48 @@
 _G.Key_System = false
 _G.Version = "Version: 1.0.0"
 _G.Discord = "https://discord.gg/4QKPUh7BUn"
+
+if _G.Minimze then
+local SpeedHubX_Screen = Instance.new("ScreenGui")
+local SpeedHubX_Toggle = Instance.new("TextButton")
+local SpeedHubX_Corner = Instance.new("UICorner")
+local SpeedHubX_Image = Instance.new("ImageLabel")
+local SpeedHubX_Image = Instance.new("ImageLabel")
+    
+SpeedHubX_Screen.Name = "SpeedHubX_Screen"
+SpeedHubX_Screen.Parent = game.CoreGui
+SpeedHubX_Screen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    
+SpeedHubX_Toggle.Name = "SpeedHubX_Toggle"
+SpeedHubX_Toggle.Parent = SpeedHubX_Screen
+SpeedHubX_Toggle.BackgroundColor3 = Color3.fromRGB(0,0,0)
+SpeedHubX_Toggle.BorderSizePixel = 0
+SpeedHubX_Toggle.Position = UDim2.new(0, 0, 0.0952890813, 0)
+SpeedHubX_Toggle.Size = UDim2.new(0, 50, 0, 50)
+SpeedHubX_Toggle.Font = Enum.Font.SourceSans
+SpeedHubX_Toggle.Text = ""
+SpeedHubX_Toggle.TextColor3 = Color3.fromRGB(0, 0, 0)
+SpeedHubX_Toggle.TextSize = 14.000
+SpeedHubX_Toggle.Draggable = true
+SpeedHubX_Toggle.Visible = false
+SpeedHubX_Toggle.MouseButton1Click:Connect(function()
+game:GetService("VirtualInputManager"):SendKeyEvent(true,127,false,game)
+game:GetService("VirtualInputManager"):SendKeyEvent(false,127,false,game)
+end)
+    
+SpeedHubX_Corner.Name = "SpeedHubX_Corner"
+SpeedHubX_Corner.Parent = SpeedHubX_Toggle
+    
+SpeedHubX_Image.Name = "SpeedHubX_MobileIMAGE"
+SpeedHubX_Image.Parent = SpeedHubX_Toggle
+SpeedHubX_Image.BackgroundColor3 = Color3.fromRGB(192,192,192)
+SpeedHubX_Image.BackgroundTransparency = 1.000
+SpeedHubX_Image.BorderSizePixel = 0
+SpeedHubX_Image.Position = UDim2.new(0.0, 0, 0.0, 0)
+SpeedHubX_Image.Size = UDim2.new(0, 50, 0, 50)
+SpeedHubX_Image.Image = "rbxassetid://15511158491"
+
+if game.CoreGui:FindFirstChild("SpeedHubX_Screen") then
+    game.CoreGui:FindFirstChild("SpeedHubX_Screen"):Destroy()
+end
+end
