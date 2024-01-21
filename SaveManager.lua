@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local SaveManager = {} do
-	SaveManager.Folder = "FluentThunderZ"
+	SaveManager.Folder = "Fluent_SpeedHubX"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
