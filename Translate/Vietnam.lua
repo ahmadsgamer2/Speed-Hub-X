@@ -68,7 +68,7 @@ FactorySecondWorldText = "Nhà máy | Thế giới thứ hai"
 AutoFactoryText = "Nhà máy ô tô"
 -- Ectoplasm
 EctoplasmText = "Ngoại chất"
-AutoFactoryText = "Tự động ngoại chất"
+AutoEctoplasmText = "Tự động ngoại chất"
 -- Sea Beast World 2
 SeaBeastText = "Quái vật biển"
 AutoSeaBeastKingText = "Vua quái vật biển tự động"
