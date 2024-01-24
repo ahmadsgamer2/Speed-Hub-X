@@ -116,8 +116,8 @@ AutoFarmCakePrinceText = "Hoàng tử bánh trang trại tự động"
 AutoSpawnCakePrinceText = "Hoàng tử bánh sinh sản tự động"
 -- Bone
 BoneText = "Xương"
-AutoFarmBone = "Xương trang trại tự động"
-AutoRandomBone = "Xương ngẫu nhiên tự động"
+AutoFarmBoneText = "Xương trang trại tự động"
+AutoRandomBoneText = "Xương ngẫu nhiên tự động"
 -- Elite Hunter
 EliteHunterText = "Thợ săn ưu tú"
 AutoEliteHunterText = "Thợ săn ưu tú tự động"
