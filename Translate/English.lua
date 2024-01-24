@@ -1,7 +1,7 @@
 -- Tab
 HomeTextTab = "Home"
 MainTextTab = "Main"
-ItemTextTab = "Tab"
+ItemTextTab = "Item"
 StatsTextTab = "Stats"
 ShopTextTab = "Shop"
 IslandTextTab = "Island"
