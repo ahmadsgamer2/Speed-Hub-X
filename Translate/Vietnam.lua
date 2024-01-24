@@ -1,3 +1,18 @@
+-- Tab
+HomeTextTab = "Trang chủ"
+MainTextTab = "Chủ yếu"
+ItemTextTab = "Mục"
+StatsTextTab = "Thống kê"
+ShopTextTab = "Cửa hàng"
+IslandTextTab = "Hòn đảo"
+DungeonTextTab = "ngục tối"
+PvPTextTab = "PvP"
+RaceV4TextTab = "Cuộc đua V4"
+FruiTextTab = "Hoa quả"
+ESPTextTab = "ESP"
+MiscellaneousTextTab = "Điều khoản khác"
+VisualTextTab = "Thị giác"
+SettingsTextTab = "Cài đặt"
 -- Main
 HomeText = "Trang chủ"
 -- Config
@@ -230,4 +245,3 @@ BringMobText = "Mang theo đám đông"
 RemoveDamageText = "Xóa văn bản thiệt hại"
 RemoveNotifyText = "Xóa thông báo"
 WhiteScreenText = "Màn hình trắng"
-
