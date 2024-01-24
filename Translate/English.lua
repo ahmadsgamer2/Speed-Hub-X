@@ -116,8 +116,8 @@ AutoFarmCakePrinceText = "Auto Farm Cake Prince"
 AutoSpawnCakePrinceText = "Auto Spawn Cake Prince"
 -- Bone
 BoneText = "Bone"
-AutoFarmBone = "Auto Farm Bone"
-AutoRandomBone = "Auto Random Bone"
+AutoFarmBoneText = "Auto Farm Bone"
+AutoRandomBoneText = "Auto Random Bone"
 -- Elite Hunter
 EliteHunterText = "Elite Hunter"
 AutoEliteHunterText = "Auto Elite Hunter"
