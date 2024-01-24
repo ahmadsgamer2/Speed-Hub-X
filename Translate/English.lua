@@ -59,7 +59,7 @@ AutoNewWorldThirdText = "Auto New World Third"
 -- Saber World 1
 SaberFirstWorldText = "Saber | First World"
 AutoSaberText = "Auto Saber"
-AutoPoleText = "Auto Saber"
+AutoPoleText = "Auto Pole"
 -- Hallow Scythe World 3
 HallowSyctheWorldText = "Hallow Scythe"
 AutoHallowScytheText = "Auto Hallow Scythe"
