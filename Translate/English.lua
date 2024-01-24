@@ -107,6 +107,14 @@ AutoYamaText = "Auto Yama"
 ObservationText = "Observation"
 AutoFarmObservationHakiText = "Auto Farm Observation Haki"
 AutoFarmObservationHakiHopText = "Auto Farm Observation Haki [Hop]"
+-- Cursed Dual Katana
+CursedDualKatanaText = "Cursed Dual Katana"
+AutoCursedDualKatanaText = "Auto Cursed Dual Katana"
+-- Yama Quest
+YamaQuestText = "Yama Quest"
+AutoYamaQuestOneText = "Auto Yama Quest [1]"
+AutoYamaQuestTwoText = "Auto Yama Quest [2]"
+MobAuraText = "Mob Aura"
 -- Rip Indar
 RipIndraText = "Rip Indar"
 AutoRipIndraBossText = "Auto Farm Rip Indar [Boss]"
