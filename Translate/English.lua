@@ -68,7 +68,7 @@ FactorySecondWorldText = "Factory | Second World"
 AutoFactoryText = "Auto Factory"
 -- Ectoplasm
 EctoplasmText = "Ectoplasm"
-AutoFactoryText = "Auto Ectoplasm"
+AutoEctoplasmText = "Auto Ectoplasm"
 -- Sea Beast World 2
 SeaBeastText = "Sea Beast"
 AutoSeaBeastKingText = "Auto Sea Beast King"
