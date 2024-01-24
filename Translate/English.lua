@@ -1,3 +1,18 @@
+-- Tab
+HomeTextTab = "Home"
+MainTextTab = "Main"
+ItemTextTab = "Tab"
+StatsTextTab = "Stats"
+ShopTextTab = "Shop"
+IslandTextTab = "Island"
+DungeonTextTab = "Dungeon"
+PvPTextTab = "PvP"
+RaceV4TextTab = "Race V4"
+FruiTextTab = "Frui"
+ESPTextTab = "ESP"
+MiscellaneousTextTab = "Miscellaneous"
+VisualTextTab = "Visual"
+SettingsTextTab = "Settings"
 -- Main
 HomeText = "Home"
 -- Config
