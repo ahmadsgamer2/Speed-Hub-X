@@ -107,6 +107,14 @@ AutoYamaText = "Ôtô Yama"
 ObservationText = "Quan sát"
 AutoFarmObservationHakiText = "Haki quan sát trang trại ô tô"
 AutoFarmObservationHakiHopText = "Haki quan sát trang trại tự động [Hop]"
+-- Cursed Dual Katana
+CursedDualKatanaText = "Thanh Katana kép bị nguyền rủa"
+AutoCursedDualKatanaText = "Thanh Katana kép bị nguyền rủa tự động"
+-- Yama Quest
+YamaQuestText = "Nhiệm vụ Yama"
+AutoYamaQuestOneText = "Nhiệm vụ tự động Yama [1]"
+AutoYamaQuestTwoText = "Nhiệm vụ tự động Yama [2]"
+MobAuraText = "Hào quang đám đông"
 -- Rip Indar
 RipIndraText = "Rip Indar"
 AutoRipIndraBossText = "Trang trại tự động Rip Indar [Ông chủ]"
