@@ -59,7 +59,7 @@ AutoNewWorldThirdText = "Auto New World Third"
 -- Saber World 1
 SaberFirstWorldText = "Saber | First World"
 AutoSaberText = "Auto Saber"
-AutoPoleText = "Auto Pole"
+AutoPoleText = "Auto Saber"
 -- Hallow Scythe World 3
 HallowSyctheWorldText = "Hallow Scythe"
 AutoHallowScytheText = "Auto Hallow Scythe"
@@ -89,6 +89,8 @@ AutoKillFishCrewMemberText = "Auto Kill Fish Crew Member"
 SetSpeedBoatText = "Set Speed boat"
 SpeedBoatText = "Speed Boat"
 NoClipRockText = "Noclip Rock"
+SelectBringBoatText = "Select Bring Boat"
+BringBoatText = "Bring Boat"
 -- Rainbow Haki
 RainbowHakiText = "Rainbow Haki"
 AutoRainbowHakiText = "Auto Rainbow Haki"
