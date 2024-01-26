@@ -89,6 +89,8 @@ AutoKillFishCrewMemberText = "Thành viên phi hành đoàn giết cá tự đ�
 SetSpeedBoatText = "Đặt tàu cao tốc"
 SpeedBoatText = "Thuyền cao tốc"
 NoClipRockText = "Đá Noclip"
+SelectBringBoatText = "Chọn Mang Thuyền"
+BringBoatText = "Mang theo thuyền"
 -- Rainbow Haki
 RainbowHakiText = "Haki cầu vồng"
 AutoRainbowHakiText = "Haki cầu vồng tự động"
