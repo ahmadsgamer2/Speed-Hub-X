@@ -89,6 +89,8 @@ AutoKillFishCrewMemberText = "สมาชิกลูกเรือฆ่า�
 SetSpeedBoatText = "ตั้งเรือเร็ว"
 SpeedBoatText = "เรือเร็ว"
 NoClipRockText = "โนคลิป ร็อค"
+SelectBringBoatText = "เลือกนำเรือ"
+BringBoatText = "นำเรือ"
 -- Rainbow Haki
 RainbowHakiText = "ฮาคิสีรุ้ง"
 AutoRainbowHakiText = "ออโต้เรนโบว์ฮาคิ"
