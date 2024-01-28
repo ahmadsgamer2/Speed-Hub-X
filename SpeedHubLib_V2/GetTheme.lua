@@ -6,7 +6,7 @@ local Themes = {
     ["Color Text"] = Color3.fromRGB(240, 240, 240),
     ["Color Dark Text"] = Color3.fromRGB(200, 200, 200),
     ["Color Stroke"] = Color3.fromRGB(247, 22, 22),
-    ["Corner Radius"] = UDim.new(0, 5),
+    ["Corner Radius"] = UDim.new(0, 7),
     ["Font"] = {
       Enum.Font.GothamBlack,
       Enum.Font.GothamBold,
@@ -16,5 +16,4 @@ local Themes = {
     ["Tween Style"] = Enum.EasingStyle.Quad
   },
 }
-
 return Themes
