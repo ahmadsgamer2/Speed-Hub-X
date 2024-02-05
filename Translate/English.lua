@@ -138,7 +138,7 @@ SelectStatsText = "Select Stats"
 EnableStatsText = "Eanble Stats"
 EnableStatsKaitunText = "Eanble Stats Kaitun" 
 --Shop
-SelectShopText = "Select Shop"
+SelectShopText = "Select Stats"
 BuyOnSelectShopText = "Buy On Select Shop"
 -- Island
 SelectIslandText = "Select Island"
