@@ -83,6 +83,7 @@ AutoSwanGlassesText = "نظارات سوان السيارات"
 AutoSwanGlassesHopText = "نظارات البجعة التلقائية [القفز]"
 -- Sea Rough
 SeaRoughText = "البحر هائج"
+AutoSailBoatText = "قارب شراعي آلي"
 AutoFindLeviathanText = "البحث التلقائي عن الطاغوت"
 AutoKillEventText = "القتل التلقائي [الحدث]"
 AutoKillTerrorsharkText = "القتل التلقائي لـ Terrorshark"
