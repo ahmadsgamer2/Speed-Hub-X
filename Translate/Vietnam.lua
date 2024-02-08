@@ -2,6 +2,7 @@
 HomeTextTab = "Trang chủ"
 MainTextTab = "Chủ yếu"
 ItemTextTab = "Mục"
+SeaEventTab = "Sự kiện biển"
 StatsTextTab = "Thống kê"
 ShopTextTab = "Cửa hàng"
 IslandTextTab = "Hòn đảo"
