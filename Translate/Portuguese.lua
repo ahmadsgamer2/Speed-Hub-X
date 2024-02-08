@@ -2,6 +2,7 @@
 HomeTextTab = "Lar"
 MainTextTab = "Principal"
 ItemTextTab = "Item"
+SeaEventTab = "Evento Marítimo"
 StatsTextTab = "Estatísticas"
 ShopTextTab = "Comprar"
 IslandTextTab = "Ilha"
