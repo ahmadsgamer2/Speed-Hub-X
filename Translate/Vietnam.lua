@@ -83,6 +83,7 @@ AutoSwanGlassesText = "Kính thiên nga tự động"
 AutoSwanGlassesHopText = "Kính thiên nga tự động [Hop]"
 -- Sea Rough
 SeaRoughText = "biển gồ ghề"
+AutoFindLeviathanText = "Tự động tìm Leviathan"
 AutoKillEventText = "Tự động tiêu diệt [Sự kiện]"
 AutoKillTerrorsharkText = "Tự động tiêu diệt cá mập khủng bố"
 AutoKillPiranhaText = "Tự Động Giết Piranha"
