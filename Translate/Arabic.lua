@@ -2,6 +2,7 @@
 HomeTextTab = "بيت"
 MainTextTab = "رئيسي"
 ItemTextTab = "غرض"
+SeaEventTab = "حدث البحر"
 StatsTextTab = "احصائيات"
 ShopTextTab = "محل"
 IslandTextTab = "جزيرة"
