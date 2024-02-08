@@ -2,6 +2,7 @@
 HomeTextTab = "Home"
 MainTextTab = "Main"
 ItemTextTab = "Item"
+SeaEventTab = "Sea Event"
 StatsTextTab = "Stats"
 ShopTextTab = "Shop"
 IslandTextTab = "Island"
