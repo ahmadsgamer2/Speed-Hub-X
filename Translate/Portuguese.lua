@@ -83,6 +83,7 @@ AutoSwanGlassesText = "Óculos de Cisne Automático"
 AutoSwanGlassesHopText = "Óculos Auto Swan [Hop]"
 -- Sea Rough
 SeaRoughText = "Mar agitado"
+AutoSailBoatText = "Barco à vela automático"
 AutoFindLeviathanText = "Localização automática do Leviatã"
 AutoKillEventText = "Morte Automática [Evento]"
 AutoKillTerrorsharkText = "Morte automática Terrorshark"
