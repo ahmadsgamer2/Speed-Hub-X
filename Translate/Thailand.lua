@@ -2,6 +2,7 @@
 HomeTextTab = "บ้าน"
 MainTextTab = "หลัก"
 ItemTextTab = "รายการ"
+SeaEventTab = "งานทะเล"
 StatsTextTab = "สถิติ"
 ShopTextTab = "ร้านค้า"
 IslandTextTab = "เกาะ"
