@@ -83,6 +83,7 @@ AutoSwanGlassesText = "แว่นออโต้หงส์"
 AutoSwanGlassesHopText = "แว่นตาออโต้หงส์ [Hop]"
 -- Sea Rough
 SeaRoughText = "ทะเลหยาบ"
+AutoFindLeviathanText = "ค้นหาเลวีอาธานอัตโนมัติ"
 AutoKillEventText = "ฆ่าอัตโนมัติ [กิจกรรม]"
 AutoKillTerrorsharkText = "ฆ่า Terrorshark อัตโนมัติ"
 AutoKillPiranhaText = "ฆ่าปิรันย่าอัตโนมัติ"
