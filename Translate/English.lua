@@ -84,6 +84,7 @@ AutoSwanGlassesHopText = "Auto Swan Glasses [Hop]"
 -- Sea Rough
 SeaRoughText = "Sea Rough"
 AutoSailBoatText = "Auto Sail Boat"
+AutoPressWText = "Auto Press W"
 AutoFindLeviathanText = "Auto Find Leviathan"
 AutoKillEventText = "Auto Kill [Event]"
 AutoKillTerrorsharkText = "Auto Kill Terrorshark"
