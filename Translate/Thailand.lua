@@ -84,6 +84,7 @@ AutoSwanGlassesHopText = "แว่นตาออโต้หงส์ [Hop]"
 -- Sea Rough
 SeaRoughText = "ทะเลหยาบ"
 AutoSailBoatText = "เรือใบอัตโนมัติ"
+AutoPressWText = "กดอัตโนมัติ W"
 AutoFindLeviathanText = "ค้นหาเลวีอาธานอัตโนมัติ"
 AutoKillEventText = "ฆ่าอัตโนมัติ [กิจกรรม]"
 AutoKillGhostShipText = "ฆ่าเรือผีโดยอัตโนมัติ"
