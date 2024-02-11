@@ -26,6 +26,7 @@ FastAttackText = "هجوم سريع"
 -- Farming
 FarmingText = "الزراعة"
 AutoFarmLevelText = "مستوى المزرعة الآلية"
+AutoFarmFastSkipText = "مستوى التخطي السريع التلقائي 1-300"
 AutoFarmNeareastMobsText = "مزرعة السيارات الغوغاء في الشرق الأدنى"
 ChestFarmGoodText = "مزرعة الصدر [جيد]"
 ChestFarmTweenText = "مزرعة الصدر [توين]"
