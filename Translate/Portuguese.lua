@@ -26,6 +26,7 @@ FastAttackText = "Ataque Rápido"
 -- Farming
 FarmingText = "Agricultura"
 AutoFarmLevelText = "Nível de fazenda automática"
+AutoFarmFastSkipText = "Salto rápido automático nível 1-300"
 AutoFarmNeareastMobsText = "Auto Farm Mobs Próximos"
 ChestFarmGoodText = "Fazenda de Peito [Bom]"
 ChestFarmTweenText = "Fazenda de Peito [Tween]"
