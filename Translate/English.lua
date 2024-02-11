@@ -26,6 +26,7 @@ FastAttackText = "Fast Attack"
 -- Farming
 FarmingText = "Farming"
 AutoFarmLevelText = "Auto Farm Level"
+AutoFarmFastSkipText = "Auto Fast Skip level 1-300"
 AutoFarmNeareastMobsText = "Auto Farm Neareast Mobs"
 ChestFarmGoodText = "Chest Farm [Good]"
 ChestFarmTweenText = "Chest Farm [Tween]"
