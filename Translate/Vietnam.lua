@@ -26,6 +26,7 @@ FastAttackText = "Tấn công nhanh"
 -- Farming
 FarmingText = "Nông nghiệp"
 AutoFarmLevelText = "Cấp độ trang trại tự động"
+AutoFarmFastSkipText = "Tự động bỏ qua nhanh cấp 1-300"
 AutoFarmNeareastMobsText = "Trang trại tự động"
 ChestFarmGoodText = "Trang trại ngực [Tốt]"
 ChestFarmTweenText = "Trang trại ngực [Tween]"
