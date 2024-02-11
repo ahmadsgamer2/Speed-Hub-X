@@ -26,6 +26,7 @@ FastAttackText = "โจมตีเร็ว"
 -- Farming
 FarmingText = "การทำฟาร์ม"
 AutoFarmLevelText = "ระดับฟาร์มอัตโนมัติ"
+AutoFarmFastSkipText = "ข้ามอัตโนมัติอย่างรวดเร็วระดับ 1-300"
 AutoFarmNeareastMobsText = "ฟาร์มอัตโนมัติ Mobs ที่ใกล้ที่สุด"
 ChestFarmGoodText = "ฟาร์มหน้าอก [ดี]"
 ChestFarmTweenText = "ฟาร์มหน้าอก [Tween]"
