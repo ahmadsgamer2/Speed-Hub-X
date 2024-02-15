@@ -218,6 +218,7 @@ AutoEatFruitText = "Tự động ăn trái cây"
 GetFruitInventoryText = "Nhận kho trái cây"
 AutoRandomFruitText = "Tự động trái cây ngẫu nhiên"
 AutoStoreFruitText = "Cửa hàng trái cây tự động"
+AutoCollectFruitText = "Tự động thu thập trái cây"
 -- ESP
 ESPPlayerText = "Người chơi ESP"
 ESPChestText = "Rương ESP"
