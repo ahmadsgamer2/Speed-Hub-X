@@ -224,6 +224,7 @@ ESPChestText = "Rương ESP"
 ESPDevilFruitText = "Trái ác quỷ ESP"
 ESPFlowerText = "Hoa ESP"
 ESPIslandText = "Đảo ESP"
+ESPMirageText = "Đảo ảo ảnh ESP"
 --Miscellaneous Server
 HopServerText = "Máy chủ hợp tác"
 HopLowPlayerServerText = "Máy chủ có trình phát thấp Hop"
