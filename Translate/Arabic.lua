@@ -218,6 +218,7 @@ AutoEatFruitText = "أكل الفاكهة تلقائيًا"
 GetFruitInventoryText = "الحصول على جرد الفاكهة"
 AutoRandomFruitText = "فاكهة عشوائية تلقائية"
 AutoStoreFruitText = "متجر السيارات الفاكهة"
+AutoCollectFruitText = "جمع الفاكهة تلقائيًا"
 -- ESP
 ESPPlayerText = "لاعب إسب"
 ESPMirageText = "ESP جزيرة ميراج"
