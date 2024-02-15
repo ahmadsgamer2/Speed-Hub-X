@@ -218,6 +218,7 @@ AutoEatFruitText = "Comer frutas automaticamente"
 GetFruitInventoryText = "Obtenha o inventário de frutas"
 AutoRandomFruitText = "Fruta Aleatória Automática"
 AutoStoreFruitText = "Frutas para loja de automóveis"
+AutoCollectFruitText = "Coleta automática de frutas"
 -- ESP
 ESPPlayerText = "Jogador ESP"
 ESPChestText = "Baú ESP"
