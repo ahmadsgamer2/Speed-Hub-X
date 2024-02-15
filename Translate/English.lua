@@ -224,6 +224,7 @@ ESPChestText = "ESP Chest"
 ESPDevilFruitText = "ESP Devil Fruit"
 ESPFlowerText = "ESP Flower"
 ESPIslandText = "ESP Island"
+ESPMirageText = "ESP Mirage Island"
 --Miscellaneous Server
 HopServerText = "Hop Server"
 HopLowPlayerServerText = "Hop Low Player Server"
