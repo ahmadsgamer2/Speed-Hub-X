@@ -225,6 +225,7 @@ ESPDevilFruitText = "Fruta do Diabo ESP"
 ESPFlowerText = "Flor ESP"
 ESPIslandText = "Ilha ESP"
 ESPMirageText = "ESP Ilha Miragem"
+ESPKitsuneText = "ESP Ilha Kitsune"
 --Miscellaneous Server
 HopServerText = "Servidor de salto"
 HopLowPlayerServerText = "Servidor de jogador com salto baixo"
