@@ -220,6 +220,7 @@ AutoRandomFruitText = "فاكهة عشوائية تلقائية"
 AutoStoreFruitText = "متجر السيارات الفاكهة"
 -- ESP
 ESPPlayerText = "لاعب إسب"
+ESPMirageText = "ESP جزيرة ميراج"
 ESPChestText = "صندوق ESP"
 ESPDevilFruitText = "ESP فاكهة الشيطان"
 ESPFlowerText = "زهرة إسب"
