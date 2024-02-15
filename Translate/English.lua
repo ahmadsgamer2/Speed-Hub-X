@@ -218,6 +218,7 @@ AutoEatFruitText = "Auto Eat Fruit"
 GetFruitInventoryText = "Get Fruit Inventory"
 AutoRandomFruitText = "Auto Random Fruit"
 AutoStoreFruitText = "Auto Store Fruit"
+AutoCollectFruitText = "Auto Collect Fruit"
 -- ESP
 ESPPlayerText = "ESP Player"
 ESPChestText = "ESP Chest"
