@@ -218,6 +218,7 @@ AutoEatFruitText = "ออโต้กินผลไม้"
 GetFruitInventoryText = "รับสินค้าคงคลังผลไม้"
 AutoRandomFruitText = "ผลไม้สุ่มอัตโนมัติ"
 AutoStoreFruitText = "ออโต้สโตร์ผลไม้"
+AutoCollectFruitText = "เก็บผลไม้อัตโนมัติ"
 -- ESP
 ESPPlayerText = "ผู้เล่นอีเอสพี"
 ESPChestText = "อกอีเอสพี"
