@@ -227,6 +227,7 @@ ESPFlowerText = "ESP Flower"
 ESPIslandText = "ESP Island"
 ESPMirageText = "ESP Mirage Island"
 ESPKitsuneText = "ESP Kitsune Island"
+ESPFindAdvancedDealerText = "ESP Advanced Fruit Dealer"
 --Miscellaneous Server
 HopServerText = "Hop Server"
 HopLowPlayerServerText = "Hop Low Player Server"
