@@ -229,6 +229,7 @@ ESPMirageText = "ESP Ilha Miragem"
 ESPKitsuneText = "ESP Ilha Kitsune"
 ESPFindAdvancedDealerText = "Revendedor avançado de frutas ESP"
 ESPLegendarySwordDealerText = "Revendedor de espadas lendárias ESP"
+ESPMasterofEnhancementText = "ESP Mestre em Aprimoramento"
 --Miscellaneous Server
 HopServerText = "Servidor de salto"
 HopLowPlayerServerText = "Servidor de jogador com salto baixo"
