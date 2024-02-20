@@ -228,6 +228,7 @@ ESPIslandText = "Đảo ESP"
 ESPMirageText = "Đảo ảo ảnh ESP"
 ESPKitsuneText = "Đảo Kitsune ESP"
 ESPFindAdvancedDealerText = "Đại lý trái cây cao cấp ESP"
+ESPLegendarySwordDealerText = "Đại lý kiếm huyền thoại ESP"
 --Miscellaneous Server
 HopServerText = "Máy chủ hợp tác"
 HopLowPlayerServerText = "Máy chủ có trình phát thấp Hop"
