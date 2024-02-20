@@ -228,6 +228,7 @@ ESPIslandText = "เกาะอีเอสพี"
 ESPMirageText = "อีเอสพี มิราจ ไอส์แลนด์"
 ESPKitsuneText = "อีเอสพี เกาะคิตสึเนะ"
 ESPFindAdvancedDealerText = "ESP ตัวแทนจำหน่ายผลไม้ขั้นสูง"
+ESPLegendarySwordDealerText = "ESP พ่อค้าดาบในตำนาน"
 --Miscellaneous Server
 HopServerText = "ฮอปเซิร์ฟเวอร์"
 HopLowPlayerServerText = "เซิร์ฟเวอร์ผู้เล่นกระโดดต่ำ"
