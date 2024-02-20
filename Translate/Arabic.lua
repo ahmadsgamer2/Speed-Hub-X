@@ -227,6 +227,7 @@ ESPDevilFruitText = "ESP فاكهة الشيطان"
 ESPFlowerText = "زهرة إسب"
 ESPIslandText = "جزيرة إي إس بي"
 ESPKitsuneText = "جزيرة إي إس بي كيتسون"
+ESPFindAdvancedDealerText = "ESP تاجر الفاكهة المتقدم"
 --Miscellaneous Server
 HopServerText = "خادم هوب"
 HopLowPlayerServerText = "قفز خادم لاعب منخفض"
