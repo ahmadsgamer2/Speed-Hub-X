@@ -1,3 +1,4 @@
 _G.Key_System = false
+getgenv().Discord = "https://discord.gg/4QKPUh7BUn"
 _G.Version = "Version: 2.1.5 [Beta]"
 _G.Discord = "https://discord.gg/4QKPUh7BUn"
