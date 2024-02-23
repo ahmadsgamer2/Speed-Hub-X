@@ -99,6 +99,7 @@ SpeedBoatText = "Speed Boat"
 NoClipRockText = "Noclip Rock"
 SelectBringBoatText = "Select Bring Boat"
 BringBoatText = "Bring Boat"
+AntiSeaEventSeaEventText = "Anti Sea Event"
 -- Rainbow Haki
 RainbowHakiText = "Rainbow Haki"
 AutoRainbowHakiText = "Auto Rainbow Haki"
