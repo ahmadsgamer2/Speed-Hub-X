@@ -99,6 +99,8 @@ SpeedBoatText = "เรือเร็ว"
 NoClipRockText = "โนคลิป ร็อค"
 SelectBringBoatText = "เลือกนำเรือ"
 BringBoatText = "นำเรือ"
+AntiSeaEventSeaEventText = "กิจกรรมต่อต้านทะเล"
+
 -- Rainbow Haki
 RainbowHakiText = "ฮาคิสีรุ้ง"
 AutoRainbowHakiText = "ออโต้เรนโบว์ฮาคิ"
