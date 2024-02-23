@@ -100,6 +100,7 @@ NoClipRockText = "Đá Noclip"
 SelectBringBoatText = "Chọn Mang Thuyền"
 BringBoatText = "Mang theo thuyền"
 AntiSeaEventSeaEventText = "Sự kiện chống biển"
+AntiSeaEventSeaEventAttackText = "Sự kiện chống tấn công trên biển"
 -- Rainbow Haki
 RainbowHakiText = "Haki cầu vồng"
 AutoRainbowHakiText = "Haki cầu vồng tự động"
