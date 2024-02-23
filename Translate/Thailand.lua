@@ -100,7 +100,7 @@ NoClipRockText = "โนคลิป ร็อค"
 SelectBringBoatText = "เลือกนำเรือ"
 BringBoatText = "นำเรือ"
 AntiSeaEventSeaEventText = "กิจกรรมต่อต้านทะเล"
-
+AntiSeaEventSeaEventAttackText = "กิจกรรมต่อต้านการโจมตีในทะเล"
 -- Rainbow Haki
 RainbowHakiText = "ฮาคิสีรุ้ง"
 AutoRainbowHakiText = "ออโต้เรนโบว์ฮาคิ"
