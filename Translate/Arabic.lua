@@ -99,6 +99,7 @@ SpeedBoatText = "قارب سريع"
 NoClipRockText = "نوكليب روك"
 SelectBringBoatText = "حدد إحضار القارب"
 BringBoatText = "إحضار القارب"
+AntiSeaEventSeaEventText = "حدث مكافحة البحر"
 -- Rainbow Haki
 RainbowHakiText = "قوس قزح هاكي"
 AutoRainbowHakiText = "أوتو رينبو هاكي"
