@@ -99,6 +99,7 @@ SpeedBoatText = "Thuyền cao tốc"
 NoClipRockText = "Đá Noclip"
 SelectBringBoatText = "Chọn Mang Thuyền"
 BringBoatText = "Mang theo thuyền"
+AntiSeaEventSeaEventText = "Sự kiện chống biển"
 -- Rainbow Haki
 RainbowHakiText = "Haki cầu vồng"
 AutoRainbowHakiText = "Haki cầu vồng tự động"
