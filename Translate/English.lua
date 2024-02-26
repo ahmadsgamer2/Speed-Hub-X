@@ -169,6 +169,8 @@ KitsuneIslandText = "Kistune Island"
 AutoTeleportToKitsuneIslandText = "Auto Teleports To Kitsune Island"
 AutoTeleportToKitsuneShrineText = "Auto Teleports To Kitsune Shrine"
 AutoCollectAzureEmberText = "Auto Collect Azure Ember"
+-- Frozen Dimension
+AutoTeleportToFrozen = "Auto Teleport To Frozen Dimension"
 -- Raid
 SelectChipsText = "Select Chips"
 AutoBuyChipsText = "Auto Buy Chips"
