@@ -169,6 +169,8 @@ KitsuneIslandText = "جزيرة كيتسون"
 AutoTeleportToKitsuneIslandText = "النقل الفوري التلقائي إلى جزيرة كيتسون"
 AutoTeleportToKitsuneShrineText = "النقل الفوري التلقائي إلى ضريح كيتسوني"
 AutoCollectAzureEmberText = "التجميع التلقائي لـ Azure Ember"
+-- Frozen Dimension
+AutoTeleportToFrozen = "النقل الفضائي التلقائي إلى البعد المجمد"
 -- Raid
 SelectChipsText = "حدد الرقائق"
 AutoBuyChipsText = "شراء رقائق السيارات"
