@@ -169,6 +169,8 @@ KitsuneIslandText = "เกาะคิตสึเนะ"
 AutoTeleportToKitsuneIslandText = "เทเลพอร์ตอัตโนมัติไปยังเกาะคิตสึเนะ"
 AutoTeleportToKitsuneShrineText = "เทเลพอร์ตอัตโนมัติไปยังศาลเจ้าคิทสึเนะ"
 AutoCollectAzureEmberText = "รวบรวม Azure Ember อัตโนมัติ"
+-- Frozen Dimension
+AutoTeleportToFrozen = "เคลื่อนย้ายอัตโนมัติไปยังมิติที่แช่แข็ง"
 -- Raid
 SelectChipsText = "เลือกชิป"
 AutoBuyChipsText = "ซื้อชิปอัตโนมัติ"
