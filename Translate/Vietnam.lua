@@ -169,6 +169,8 @@ KitsuneIslandText = "Đảo Kitsune"
 AutoTeleportToKitsuneIslandText = "Tự động dịch chuyển đến đảo Kitsune"
 AutoTeleportToKitsuneShrineText = "Tự động dịch chuyển đến đền Kitsune"
 AutoCollectAzureEmberText = "Tự động thu thập Azure Ember"
+-- Frozen Dimension 
+AutoTeleportToFrozen = "Tự động dịch chuyển đến kích thước cố định"
 -- Raid
 SelectChipsText = "Chọn chip"
 AutoBuyChipsText = "Tự động mua chip"
