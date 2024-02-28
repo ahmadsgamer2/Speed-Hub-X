@@ -101,6 +101,7 @@ SelectBringBoatText = "Select Bring Boat"
 BringBoatText = "Bring Boat"
 AntiSeaEventSeaEventText = "Anti Sea Event"
 AntiSeaEventSeaEventAttackText = "Anti Attack On Sea Event"
+SeaRoughSettingsText = "Sea Event Settings"
 -- Rainbow Haki
 RainbowHakiText = "Rainbow Haki"
 AutoRainbowHakiText = "Auto Rainbow Haki"
