@@ -101,6 +101,7 @@ SelectBringBoatText = "Selecione Trazer Barco"
 BringBoatText = "Traga Barco"
 AntiSeaEventSeaEventText = "Evento Anti-Mar"
 AntiSeaEventSeaEventAttackText = "Evento Anti-Ataque no Mar"
+SeaRoughSettingsText = "Configurações de eventos marítimos"
 -- Rainbow Haki
 RainbowHakiText = "Haki arco-íris"
 AutoRainbowHakiText = "Auto arco-íris Haki"
