@@ -101,6 +101,7 @@ SelectBringBoatText = "เลือกนำเรือ"
 BringBoatText = "นำเรือ"
 AntiSeaEventSeaEventText = "กิจกรรมต่อต้านทะเล"
 AntiSeaEventSeaEventAttackText = "กิจกรรมต่อต้านการโจมตีในทะเล"
+SeaRoughSettingsText = "การตั้งค่าเหตุการณ์ทะเล"
 -- Rainbow Haki
 RainbowHakiText = "ฮาคิสีรุ้ง"
 AutoRainbowHakiText = "ออโต้เรนโบว์ฮาคิ"
