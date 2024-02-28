@@ -102,6 +102,7 @@ BringBoatText = "إحضار القارب"
 AntiSeaEventSeaEventText = "حدث مكافحة البحر"
 AntiSeaEventSeaEventAttackText = "حدث مكافحة الهجوم على البحر"
 SeaRoughSettingsText = "إعدادات الأحداث البحرية"
+LeviathanText = "الطاغوت"
 -- Rainbow Haki
 RainbowHakiText = "قوس قزح هاكي"
 AutoRainbowHakiText = "أوتو رينبو هاكي"
