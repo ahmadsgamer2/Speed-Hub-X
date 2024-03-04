@@ -8,8 +8,8 @@ if getgenv().AntiLag then
 	local renderStepped = game:GetService("RunService").RenderStepped
 	local function GetFPS() 
 		renderStepped:Wait() 
-		local sum = 0 for _ = 1, 5 do sum += 1 / renderStepped:Wait() 
-		end return math.round(sum / 5) 
+		local V = 0 for _ = 1, 5 do V += 1 / renderStepped:Wait() 
+		end return math.round(V / 5) 
 	end
 	spawn(function()setfpscap(GetFPS())end)
 end
