@@ -1,6 +1,12 @@
+--- Local
+local DiscordInvite = "https://discord.gg/x9GkmYvPyr"
+
+-- _G.
 _G.Key_System = false
 _G.Version = "Version: 2.2.6"
-_G.Discord = "https://discord.gg/x9GkmYvPyr"
+_G.Discord = DiscordInvite
+-- Getgenv
+getgenv().Discord = DiscordInvite
 
 -- Anti Lag
 
