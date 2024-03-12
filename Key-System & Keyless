@@ -3,7 +3,7 @@ local DiscordInvite = "https://discord.gg/x9GkmYvPyr"
 
 -- _G.
 _G.Key_System = false
-_G.Version = "Version: 2.2.6"
+_G.Version = "Version: 2.2.7"
 _G.Discord = DiscordInvite
 -- Getgenv
 getgenv().Discord = DiscordInvite
