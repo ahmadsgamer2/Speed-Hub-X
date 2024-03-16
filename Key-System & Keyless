@@ -19,12 +19,3 @@ if getgenv().AntiLag then
 	end
      spawn(function()setfpscap(GetFPS())end)
 end
--- PS99 List
-if game.PlaceId == 8737899170 then
-    local ETable = {}
-    for i,v in game:GetService("ReplicatedStorage").__DIRECTORY.Eggs["Zone Eggs"]:GetDescendants() do
-        if v:IsA("ModuleScript") then
-            table.insert(ETable, string.split(v.Name, " | ")[2])
-        end
-    end
-end
