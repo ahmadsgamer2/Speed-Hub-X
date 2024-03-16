@@ -17,5 +17,14 @@ if getgenv().AntiLag then
 		local V = 0 for _ = 1, 5 do V += 1 / renderStepped:Wait() 
 		end return math.round(V / 5) 
 	end
-	spawn(function()setfpscap(GetFPS())end)
+     spawn(function()setfpscap(GetFPS())end)
+end
+-- PS99 List
+if getgenv()["List Egg PS99"] then
+    local ETable = {}
+    for i,v in ReplicatedStorage.__DIRECTORY.Eggs["Zone Eggs"]:GetDescendants() do
+        if v:IsA("ModuleScript") then
+            table.insert(ETable, string.split(v.Name, " | ")[2])
+        end
+    end
 end
