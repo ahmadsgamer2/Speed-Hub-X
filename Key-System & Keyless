@@ -10,7 +10,7 @@ getgenv().Discord = DiscordInvite
 
 -- Anti Lag
 
-if getgenv().AntiLag then
+if getgenv().AntiLag or _G.AntiLag then
 	local renderStepped = game:GetService("RunService").RenderStepped
 	local function GetFPS() 
 		renderStepped:Wait() 
